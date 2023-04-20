@@ -1,1 +1,1 @@
-This is a repository where I save the labs and projects developed while taking DSA's courses.
+Este é um repositório onde eu salvarei os labs e projetos realizados durante o treinamento dos cursos da DSA.
